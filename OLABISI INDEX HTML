@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+<meta charset="UTF-8">
+<meta name=""viewport" content="width=device-width, initial-scale=1.0">
+<title>My Personal Website</title>title> <!-- Basic SEO: Important ketword in title -->
+<meta name="description" content="A personal website showcasing my skills and projects. Learn more about me and my work."> <!--SEO: Short, descriptive meta description -->
+<meta name="keywords" content="web developer, portfolio, projects, skills"> <!-- SEO: relevant keywords -->
+<meta name="author" content="OLABISI KOLAWOLE">
+</head>
+<body>
+
+  <header>
+    <h1>My Personal Website</h1>
+    <p>Welcome! Learn more about my skills and projects.</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>I am a passionate web developer with experience in HTML</p>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <article>
+        <h3>Project 1: Simple Calculator</h3>
+        <p>A basic calculator built with HTML.</p>
+      </article>
+      <article>
+        <h3>Project 2: To-Do List App</h3>
+        <p>A to-do list application that allows users to add, edit, and delete tasks.</p>
+      </article>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <p>You can reach me at kolawolebisi@gmail.com</p>
+    </section>
+  </main>
+   <footer>
+    <p>&copy; 2025 OLABISI KOLAWOLE. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
+ 
